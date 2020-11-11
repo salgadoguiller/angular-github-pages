@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-github-pages"
+    }
+  },
+  "defaultProject": "angular-github-pages",
+  "cli": {
+    "analytics": "7cfc7d2e-6df9-4b33-a85d-dd5e3dbd955c"
+  }
 }
